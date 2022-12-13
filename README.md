@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @chuncy0024
 - 👀 I’m interested in data science and football.
 - 🌱 I’m currently learning image recognition.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on data science.
+- 📫 How to reach me stackchuncy@gmail.com
 
 <!---
 chuncy0024/chuncy0024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
