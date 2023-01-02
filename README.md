@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chuncy0024
 - 👀 I’m interested in data science and football.
-- 🌱 I’m currently learning image recognition.
+- 🌱 I’m currently learning object detection.
 - 💞️ I’m looking to collaborate on data science.
 - 📫 How to reach me stackchuncy@gmail.com
 
